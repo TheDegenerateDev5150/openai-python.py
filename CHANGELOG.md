@@ -1,5 +1,34 @@
 # Changelog
 
+## 1.66.3 (2025-03-12)
+
+Full Changelog: [v1.66.2...v1.66.3](https://github.com/openai/openai-python/compare/v1.66.2...v1.66.3)
+
+### Bug Fixes
+
+* update module level client ([#2185](https://github.com/openai/openai-python/issues/2185)) ([456f324](https://github.com/openai/openai-python/commit/456f3240a0c33e71521c6b73c32e8adc1b8cd3bc))
+
+## 1.66.2 (2025-03-11)
+
+Full Changelog: [v1.66.1...v1.66.2](https://github.com/openai/openai-python/compare/v1.66.1...v1.66.2)
+
+### Bug Fixes
+
+* **responses:** correct reasoning output type ([#2181](https://github.com/openai/openai-python/issues/2181)) ([8cb1129](https://github.com/openai/openai-python/commit/8cb11299acc40c80061af275691cd09a2bf30c65))
+
+## 1.66.1 (2025-03-11)
+
+Full Changelog: [v1.66.0...v1.66.1](https://github.com/openai/openai-python/compare/v1.66.0...v1.66.1)
+
+### Bug Fixes
+
+* **responses:** correct computer use enum value ([#2180](https://github.com/openai/openai-python/issues/2180)) ([48f4628](https://github.com/openai/openai-python/commit/48f4628c5fb18ddd7d71e8730184f3ac50c4ffea))
+
+
+### Chores
+
+* **internal:** temporary commit ([afabec1](https://github.com/openai/openai-python/commit/afabec1b5b18b41ac870970d06e6c2f152ef7bbe))
+
 ## 1.66.0 (2025-03-11)
 
 Full Changelog: [v1.65.5...v1.66.0](https://github.com/openai/openai-python/compare/v1.65.5...v1.66.0)
